@@ -2,7 +2,7 @@
     <h1>Hi there! 👋 I'm Buse</h1>
 </div>
 <div id="badges" align="center">
-    <img src="https://komarev.com/ghpvc/?username=busenurcamlibel&label=Profile%20views&color=0e75b6&style=flat" alt="busenur" />
+    <img src="https://komarev.com/ghpvc/?username=busenurcamlibel&label=Profile%20views&color=0e75b6&style=tokyonight" alt="busenur" />
 </div>
 
 ### :woman_technologist: About Me:
