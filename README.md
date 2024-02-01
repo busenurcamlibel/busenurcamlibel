@@ -13,9 +13,9 @@ I'm a junior Frontend Developer.
 
 <br>
 
-![Buse's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=busenurcamlibel&theme=holi)
+![Buse's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=busenurcamlibel&theme=tokyonight)
 
-![Buse's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=busenurcamlibel&show_icons=true&locale=en&layout=compact&theme=holi)
+![Buse's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=busenurcamlibel&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 [![Buse's GitHub stats](https://github-readme-stats.vercel.app/api?username=busenurcamlibel&show_icons=true&count_private=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
   
